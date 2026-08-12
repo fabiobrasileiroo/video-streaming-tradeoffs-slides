@@ -1,0 +1,15 @@
+{
+  "name": "video-streaming-tradeoffs-slides",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.19.0",
+    "@slidev/theme-default": "latest",
+    "slidev-theme-excali-slide": "^1.4.0"
+  }
+}
